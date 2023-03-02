@@ -16,7 +16,7 @@ The experimental process used to disrupt the network and evaluate the effects of
 
 156 Nodes - Ndrangheta members + events (meetings attended by the criminal to discuss activity and other matters)
 
-156 Nodes - Ndrangheta members + "locale"(small local power management organization) + ruolo(capo,vicario,contabile)  --> nodebis.csv
+156 Nodes - Ndrangheta members + "locale"(small local power management organization) + ruolo  ----> nodebis.csv
 
 
 ![visualization7](https://user-images.githubusercontent.com/33379163/222515244-208cdc29-18b7-401f-9882-52d220da10ee.png)
