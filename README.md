@@ -25,6 +25,7 @@ The experimental process used to disrupt the network and evaluate the effects of
 
 
 ---
-Dataset Ndrangheta2 from Ucinet: https://sites.google.com/site/ucinetsoftware/datasets/covert-networks/ndrangheta-mafia-2
 
 [1] Cavallaro, L., and Ficara, A., and De Meo, P., and Fiumara, G., and Catanese, S., and Bagdasar, O., and Liotta, A. (2020). Disrupting Resilient Criminal Networks through Data Analysis: The case of Sicilian Mafia. http://arxiv.org/abs/2003.05303v1
+
+Dataset Ndrangheta2 from Ucinet: https://sites.google.com/site/ucinetsoftware/datasets/covert-networks/ndrangheta-mafia-2
